@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://hisononihewe.pages.dev/sitemap.xml
